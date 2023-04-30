@@ -1,0 +1,54 @@
+body {
+  font-family: 'Dancing Script', cursive;
+  font-size: 25px;
+} 
+
+h1, h2 {
+  text-align: center;
+}
+
+h3 {
+  text-align: start;
+}
+
+section {
+  text-align: center;
+}
+
+article {
+  display: inline-block;
+  background-color: lightgray;
+  width: 30%;
+  padding: 10px 20px;
+  margin: 0 40px;
+  vertical-align: middle;  
+  border-radius: 20px;
+  border: 2px solid black;
+}
+
+article p {
+  text-align: justify;
+}
+
+img {
+  display: inline-block;
+  margin: 0 40px;
+  width: 30%;
+  vertical-align: middle;
+  border: 2px solid black;
+  border-radius: 20px;
+}
+
+footer {
+  background-color: lightgray;
+  text-align: center;
+  padding: 10px;
+  border: 2px solid black;
+  border-radius: 20px;
+  margin-top: 20px;
+}
+
+footer p, a {
+  display: inline-block;
+  margin: 0 50px;
+}
