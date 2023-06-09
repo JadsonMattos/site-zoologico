@@ -22,4 +22,4 @@ Confere por lá como quero o site, por gentileza. Tenho certeza que fará um ót
 Obrigada!
 ````
 
-![Imagem](img/esboco-site-zoologico.png)
+![Imagem](dia-2.2/img/esboco-site-zoologico.png)
