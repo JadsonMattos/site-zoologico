@@ -11,28 +11,32 @@ h3 {
   text-align: start;
 }
 
-section {
+#textos, #imagens {
   text-align: center;
 }
 
-article {
+#textos > article {
   display: inline-block;
   background-color: lightgray;
   width: 30%;
-  padding: 10px 20px;
-  margin: 0 40px;
+  padding: 15px;
+  margin: 0 20px;
   vertical-align: middle;  
   border-radius: 20px;
   border: 2px solid black;
 }
 
-article p {
+#textos p {
   text-align: justify;
 }
 
 img {
+  width: 300px;
+}
+
+#imagens > img {
   display: inline-block;
-  margin: 0 40px;
+  margin: 0 20px;
   width: 30%;
   vertical-align: middle;
   border: 2px solid black;
